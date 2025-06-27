@@ -1,6 +1,6 @@
 #!/bin/bash
 # setup_practice_data.sh - Tạo dữ liệu thực hành cho bài giảng Unix/Linux for Data Science
-# Run: bash setup_practice_data.sh
+# Run: # sed -i 's/\r$//' setup_script.sh -> bash setup_practice_data.sh
 # Author: Nguyen Thai Ha
 
 echo "Setting up practice data for Unix/Linux Data Science Course..."
